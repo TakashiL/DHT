@@ -3,8 +3,6 @@
 //  DHT
 //
 //  Created by Ziyue Lu on 15/10/25.
-//  Name: Ziyue Lu
-//  ID: 301295780
 //  language: C
 
 #include <stdio.h>
