@@ -1,6 +1,6 @@
 # DHT
 ## Introduction
-This project is the implementatino for DHT(Distributed Hash Table), which ios a decentralized distributed system that provides a lookup service similar to a hash table. There are (key, value) pairs. Given the key, the value associated can be retrieved efficiently.
+This project is the implementatino for DHT(Distributed Hash Table), which is a decentralized distributed system that provides a lookup service similar to a hash table. There are (key, value) pairs. Given the key, the value associated can be retrieved efficiently.
 
 ## Algorithm
 * This project uses **Union Find Set** algorithm to get result.
